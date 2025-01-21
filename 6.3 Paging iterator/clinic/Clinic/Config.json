@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Data Source=localhost; Port:5432; Initial Catalog=Clinic; User Name=postgres; Password=postgres",
+    "PostgresConnection": "Host=localhost; Port=5432; Database=Clinic; UserName=second; Password=postgres"
+  }
+}

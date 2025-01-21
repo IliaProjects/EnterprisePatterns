@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Data Source=localhost; Port:1433; Initial Catalog=DAOPatterns; User Name=admin; Password=admin"
+  }
+}
